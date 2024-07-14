@@ -5,7 +5,7 @@ import { NAV_LINKS } from "@/data/constants";
 <template>
   <footer class="dark:bg-black bg-slate-200 border-t-2 border-solid border-primary w-full" id="contact">
     <div class="mx-auto max-w-screen-xl my-8">
-      <a href="/#hero" class="flex justify-center items-center text-3xl font-semibold text-primary hover:text-blue-300 hover:underline"> Lorem Ipsum </a>
+      <a href="/#hero" class="flex justify-center items-center text-3xl font-semibold text-primary hover:text-blue-300 hover:underline"> KangJono </a>
       <ul class="flex flex-wrap justify-center items-center mb-6 my-8">
         <li v-for="link in NAV_LINKS" :key="link.href">
           <a class="mr-4 md:mr-6 hover:text-primary hover:underline" :href="link.href">{{ link.label }} </a>
@@ -17,7 +17,7 @@ import { NAV_LINKS } from "@/data/constants";
       </ul>
     </div>
     <section class="border-t border-primary py-2">
-      <a href="https://github.com/atalek/portfolio-template" target="_blank" class="md:text-lg flex items-center justify-center hover:text-primary"
+      <a href="https://github.com/KangJ0n0" target="_blank" class="md:text-lg flex items-center justify-center hover:text-primary"
         >© 2024 KangJono
         <Icon name="fa6-brands:github" class="size-5 ml-2" />
       </a>
