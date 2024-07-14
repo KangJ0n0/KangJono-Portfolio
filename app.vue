@@ -24,7 +24,7 @@ useHead({
     },
     {
       property: "og:image",
-      content: "https://i.imgur.com/vjCn7UE.png",
+      content: "https://i.imgur.com/CrfjEaR.png",
     },
     {
       property: "og:description",
@@ -33,7 +33,7 @@ useHead({
 
     {
       property: "twitter:card",
-      content: "https://i.imgur.com/vjCn7UE.png",
+      content: "https://i.imgur.com/CrfjEaR.png",
     },
     {
       property: "twitter:url",
