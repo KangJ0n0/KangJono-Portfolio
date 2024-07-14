@@ -9,11 +9,11 @@ useHead({
     { name: "viewport", content: "width=device-width, initial-scale=1.0" },
     {
       name: "description",
-      content: "A customizable portfolio template built with Nuxt 3 and Tailwind CSS. Easy to set up and perfect for showcasing your skills and experience.",
+      content: "A portfolio built with Nuxt 3 and Tailwind CSS.",
     },
     {
       name: "keywords",
-      content: "portfolio template, Nuxt 3, Tailwind CSS, web development, customization",
+      content: "portfolio, Nuxt 3, Tailwind CSS, web development, customization",
     },
     { name: "author", content: "Jono" },
     { property: "og:type", content: "website" },
@@ -24,7 +24,7 @@ useHead({
     },
     {
       property: "og:image",
-      content: "https://i0.wp.com/curiositygym.com/wp-content/uploads/2022/05/portfolio1.jpg?fit=1920%2C1080&ssl=1",
+      content: "https://cdn.sazumi.moe/file/k5chq4.png",
     },
     {
       property: "og:description",
@@ -33,11 +33,11 @@ useHead({
 
     {
       property: "twitter:card",
-      content: "https://i0.wp.com/curiositygym.com/wp-content/uploads/2022/05/portfolio1.jpg?fit=1920%2C1080&ssl=1",
+      content: "https://cdn.sazumi.moe/file/k5chq4.png",
     },
     {
       property: "twitter:url",
-      content: "https://portfolio-template.atalek.com/",
+      content: "https://kangjono-portfolio.vercel.app/",
     },
     {
       property: "twitter:title",

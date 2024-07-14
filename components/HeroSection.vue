@@ -10,7 +10,7 @@ import { HERO_SECTION } from "@/data/constants";
       <h1 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
         Hi! I'm
         <span class="poppins text-primary">Jono</span><span class="poppins"><br />specializing in <br /></span>
-        <span class="poppins text-primary">Web Developer</span>
+        <span class="poppins text-primary">Web Development</span>
       </h1>
       <p class="text-base sm:text-lg md:text-xl text-balance">
         {{ HERO_SECTION }}
