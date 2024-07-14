@@ -20,11 +20,11 @@ useHead({
     { property: "og:url", content: "https://kangjono-portfolio.vercel.app/" },
     {
       property: "og:title",
-      content: "Portfolio with Nuxt & Tailwind CSS",
+      content: "KangJono Portfolio",
     },
     {
       property: "og:image",
-      content: "https://cdn.sazumi.moe/file/k5chq4.png",
+      content: "https://i.imgur.com/vjCn7UE.png",
     },
     {
       property: "og:description",
@@ -33,15 +33,15 @@ useHead({
 
     {
       property: "twitter:card",
-      content: "https://cdn.sazumi.moe/file/k5chq4.png",
+      content: "https://i.imgur.com/vjCn7UE.png",
     },
     {
       property: "twitter:url",
-      content: "https://kangjono-portfolio.vercel.app/",
+      content: "https://kangjono-portfolio.vercel.app",
     },
     {
       property: "twitter:title",
-      content: "Portfolio with Nuxt & Tailwind CSS",
+      content: "Kangjono Portfolio",
     },
     {
       property: "twitter:description",
