@@ -10,11 +10,7 @@
     </div>
     <div class="md:grid md:grid-cols gap-8 items-center py-8">
       <div class="text-center flex flex-col h-full poppins font-semibold text-balance mt-6 md:mt-0">
-        <p class="text-base md:text-lg">
-          I am Afiftha Ravi Aufa Yubiharto, known as <span class="text-primary">Jono. </span>Undergraduate Student of Informatics Engineering at Jenderal Soedirman University, specializing in a website development. Have a deep interest in
-          game development and embedded system. I am quick to grasp new concepts and always eager to learn new things, lets collaborate and achive excellence together!
-          <br />
-        </p>
+        <span class="text-primary">Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
       </div>
     </div>
   </section>

@@ -13,18 +13,7 @@ export const NAV_LINKS = [
   },
 ];
 
-export const HERO_SECTION = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi beatae odio commodi amet minima officia in impedit quibusdam eos iste provident explicabo mollitia doloremque Lorem, ipsum dolor.? Lorem here.";
-
-export const ABOUT_SECTION = {
-  section1:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem magnam ipsum delectus, quis suscipit iste, quisquam excepturi commodi, ipsam dolorum fugiat similique nostrum nisi earum dolores reiciendis id facere repudiandae voluptatum molestiae. Reprehenderit tempore, corrupti voluptates totam enim suscipit iure repellat sunt, laboriosam ipsam illo mollitia iusto magnam? Itaque, iusto. ",
-
-  section2:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem magnam ipsum delectus, quis suscipit iste, quisquam excepturi commodi, ipsam dolorum fugiat similique nostrum nisi earum dolores reiciendis id facere repudiandae voluptatum molestiae. Reprehenderit tempore, corrupti volu ",
-
-  section3:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem magnam ipsum delectus, quis suscipit iste, quisquam excepturi commodi, ipsam dolorum fugiat similique nostrum nisi earum dolores reiciendis id facere re Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-};
+export const HERO_SECTION = "Currently studying as an Informatics student at Jenderal Soedirman University, I enjoy diving into programming, particularly web development. I'm open to collaborating on any opportunities.";
 
 export const PROJECTS = [
   {
@@ -51,7 +40,7 @@ export const PROJECTS = [
     id: 3,
     title: "Weather App",
     description:
-      "Lorem ipsum dolor sit amet, ne insolens disputando duo, accusam elaboraret duo eu. Duo stet tacimates voluptaria eu, qui enim fierent moderatius ne. Quod hinc mel ut, discere feugiat eligendi no his. Nulla ponderum ei eos, cum te omnes percipit dissentias. Sea dolor lucilius instructior no. Ad vidisse viderer duo, quot iusto reprimique vim id, eum eu graeci doctus.",
+      "Offers a seamless experience for staying informed about current and forecasted weather conditions. With a clean and intuitive interface, users can easily access accurate weather data for their location and beyond. Weather-App provides comprehensive information to assist users in making informed decisions.",
     image: "/weather.png",
     gitUrl: "https://github.com/KangJ0n0/Weather-app",
     previewUrl: "https://weather-appli.vercel.app/",
