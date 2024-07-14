@@ -48,5 +48,6 @@ import { HERO_SECTION } from "@/data/constants";
 
       <img loading="eager" src="/kotonehero.jpg" alt="programming" class="w-full h-full object-cover z-[2]" />
     </div>
+    <br />
   </section>
 </template>

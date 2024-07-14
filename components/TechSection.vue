@@ -18,7 +18,7 @@
             <span class="text-primary mt-2">C++</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
-            <img src="/javascript-logo.png" alt="JavaScript" class="w-20 h-20" />
+            <img src="/JavaScript-logo.png" alt="JavaScript" class="w-20 h-20" />
             <span class="text-primary mt-2">JavaScript</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
