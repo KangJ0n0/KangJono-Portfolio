@@ -17,7 +17,7 @@ import { HERO_SECTION } from "@/data/constants";
       </p>
 
       <div class="flex gap-8 items-center justify-center">
-        <a href="#" target="_blank">
+        <a href="#tech">
           <button class="greenShadow lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-black text-white dark:bg-white dark:text-slate-950">
             <div class="absolute top-0 right-full w-full h-full bg-primary opacity-20 group-hover:translate-x-full z-0 duration-200" />
             <h2 class="relative z-9">

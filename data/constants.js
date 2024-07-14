@@ -1,5 +1,9 @@
 export const NAV_LINKS = [
   {
+    href: "#tech",
+    label: "Toolkit",
+  },
+  {
     href: "#projects",
     label: "Projects",
   },
