@@ -19,7 +19,7 @@
               Github
               <Icon name="fa6-brands:github" class="size-8" />
             </a>
-            <a href="https://www.linkedin.com/" target="_blank" class="hover:text-primary" aria-label="LinkedIn Profile">
+            <a href="https://www.linkedin.com/in/afiftha-ravi" target="_blank" class="hover:text-primary" aria-label="LinkedIn Profile">
               Linkedin
               <Icon name="fa6-brands:linkedin" class="size-8" />
             </a>

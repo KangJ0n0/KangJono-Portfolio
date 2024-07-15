@@ -53,7 +53,7 @@ import { NAV_LINKS } from "@/data/constants";
           </div>
         </div>
         <div class="flex gap-4">
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/KangJ0n0" target="_blank">
             <svg class="h-6 w-6 text-black dark:text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
                 fill-rule="evenodd"
@@ -77,7 +77,7 @@ import { NAV_LINKS } from "@/data/constants";
     >
       <a class="border rounded p-2 border-primary animate-link" v-for="link in NAV_LINKS" :href="link.href" :key="link.href">{{ link.label }} </a>
       <div class="flex gap-4 justify-center">
-        <a href="https://github.com/" target="_blank">
+        <a href="https://github.com/KangJ0n0" target="_blank">
           <svg class="h-6 w-6 text-black dark:text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path
               fill-rule="evenodd"
