@@ -10,5 +10,6 @@
     <AboutSection />
     <div class="md:my-24" />
     <ContactSection />
+    <div class="md:my-24" />
   </main>
 </template>
