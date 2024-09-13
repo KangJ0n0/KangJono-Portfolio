@@ -22,7 +22,7 @@ import { NAV_LINKS } from "@/data/constants";
     <nav class="flex flex-row items-center justify-between max-w-[1400px] mx-auto">
       <div class="flex gap-4 items-center cursor-pointer text-primary hover:text-blue-300" @click="goTop">
         <span class="inline-block">
-          <img src="/kotonelogo.png" alt="Kotone Logo" class="h-6 w-6" />
+          <img src="assets/img/kotonelogo.png" alt="Kotone Logo" class="h-6 w-6" />
         </span>
         <h1 class="font-medium text-xl">
           <b class="font-bold poppins mr-1">KangJono</b>

@@ -14,11 +14,11 @@
         <h4 class="text-2xl mb-4">Programming Languages</h4>
         <ul class="list-none grid grid-cols-1 sm:grid-cols-2 gap-4">
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
-            <img src="/cpp.png" alt="JavaScript" class="w-20 h-20" />
+            <img src="assets/img/cpp.png" alt="JavaScript" class="w-20 h-20" />
             <span class="text-primary mt-2">C++</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
-            <img src="/JavaScript-logo.png" alt="JavaScript" class="w-20 h-20" />
+            <img src="assets/img/JavaScript-logo.png" alt="JavaScript" class="w-20 h-20" />
             <span class="text-primary mt-2">JavaScript</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
@@ -51,7 +51,7 @@
             <span class="text-primary mt-2">Nuxt</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">
-            <img src="/vue.png" alt="Vue.js" class="w-20 h-20" />
+            <img src="assets/img/vue.png" alt="Vue.js" class="w-20 h-20" />
             <span class="text-primary mt-2">Vue</span>
           </li>
           <li class="flex flex-col items-center bg-gray-800 p-4 rounded-lg">

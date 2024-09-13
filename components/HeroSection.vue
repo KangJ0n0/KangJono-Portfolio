@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import resume from "@/assets/resume.pdf";
+import resume from "@/assets/profile.pdf";
 
 import { HERO_SECTION } from "@/data/constants";
 </script>
@@ -46,7 +46,7 @@ import { HERO_SECTION } from "@/data/constants";
         <div class="bg-gradient-to-r absolute inset-[-20px] from-cyan-400 to-primary specialSpin" />
       </div>
 
-      <img loading="eager" src="/kotonehero.jpg" alt="programming" class="w-full h-full object-cover z-[2]" />
+      <img loading="eager" src="assets/img/kotonehero.jpg" alt="programming" class="w-full h-full object-cover z-[2]" />
     </div>
     <br />
   </section>
