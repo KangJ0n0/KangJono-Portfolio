@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import resume from "@/assets/profile.pdf";
+import resume from "@/assets/Profile.pdf";
 
 import { HERO_SECTION } from "@/data/constants";
 </script>
